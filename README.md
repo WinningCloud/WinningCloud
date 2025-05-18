@@ -12,7 +12,7 @@ Hi there 👋 I'm Farhan
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WinningCloud&layout=compact&theme=radical)
 
-![Leetcode Stats](https://leetcode.com/u/farhann_6389/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/farhann_6389?theme=dark&font=Baloo&ext=contest)
 
 
 
