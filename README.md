@@ -4,7 +4,7 @@ Hi there 👋 I'm Farhan
 
 🎯 Passionate about building meaningful tech solutions  
 💡 Always exploring new ideas and technologies  
-🌱 Currently diving deeper into **Web Development** and **React Native**  
+🌱 Currently diving deeper into **Web Development** and **Arduino**  
 📚 Strong foundation in **C Programming**, **OOP**, and **Android Studio**  
 🚀 Participating in Hackathons and solving real-world problems with code
 
