@@ -11,7 +11,7 @@ Hi there 👋 I'm Farhan
 
 ## 📊 GitHub Stats
 
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WinningCloud&show_icons=true&theme=radical)  
+![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WinningCloud&show_icons=true&theme=radical)   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WinningCloud&layout=compact&theme=radical)
 
 ---
